@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1548366086-7f1b76106622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=376&q=80"
+  },
+  {
+    "id": "2",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1544568104-5b7eb8189dd4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Whiskers",
+    "age": 2,
+    "description": "Whiskers is a shy and timid kitten",
+    "type": "cat",
+    "gender": "male",
+    "adoption_fee": 100,
+    "image": "https://images.unsplash.com/photo-1547565393-1b180d53d82a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "4",
+    "name": "Daisy",
+    "age": 4,
+    "description": "Daisy is a friendly and energetic puppy",
+    "type": "dog",
+    "gender": "female",
+    "adoption_fee": 200,
+    "image": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+  },
+  {
+    "id": "5",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1547565560-7d3313e7fff1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "6",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80"
+  },
+  {
+    "id": "7",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1548366086-7f1b76106622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=376&q=80"
+  },
+  {
+    "id": "8",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1592754862816-1a21a4ea2281?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "9",
+    "name": "Whiskers",
+    "age": 2,
+    "description": "Whiskers is a shy and timid kitten",
+    "type": "cat",
+    "gender": "male",
+    "adoption_fee": 100,
+    "image": "https://images.unsplash.com/photo-1547565393-1b180d53d82a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "10",
+    "name": "Daisy",
+    "age": 4,
+    "description": "Daisy is a friendly and energetic puppy",
+    "type": "dog",
+    "gender": "female",
+    "adoption_fee": 200,
+    "image": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+  },
+  {
+    "id": "11",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1547565560-7d3313e7fff1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "12",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80"
+  },
+  {
+    "id": "13",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1517433796341-366280b72042?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+  },
+  {
+    "id": "14",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1592754862816-1a21a4ea2281?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "15",
+    "name": "Whiskers",
+    "age": 2,
+    "description": "Whiskers is a shy and timid kitten",
+    "type": "cat",
+    "gender": "male",
+    "adoption_fee": 100,
+    "image": "https://images.unsplash.com/photo-1547565393-1b180d53d82a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "16",
+    "name": "Daisy",
+    "age": 4,
+    "description": "Daisy is a friendly and energetic puppy",
+    "type": "dog",
+    "gender": "female",
+    "adoption_fee": 200,
+    "image": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+  },
+  {
+    "id": "17",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1547565560-7d3313e7fff1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "18",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80"
+  },
+  {
+    "id": "19",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1518288774672-b94e808873ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=438&q=80"
+  },
+  {
+    "id": "20",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1592754862816-1a21a4ea2281?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "21",
+    "name": "Whiskers",
+    "age": 2,
+    "description": "Whiskers is a shy and timid kitten",
+    "type": "cat",
+    "gender": "male",
+    "adoption_fee": 100,
+    "image": "https://images.unsplash.com/photo-1547565393-1b180d53d82a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "22",
+    "name": "Daisy",
+    "age": 4,
+    "description": "Daisy is a friendly and energetic puppy",
+    "type": "dog",
+    "gender": "female",
+    "adoption_fee": 200,
+    "image": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+  },
+  {
+    "id": "23",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1547565560-7d3313e7fff1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "24",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80"
+  },
+  {
+    "id": "25",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1518288774672-b94e808873ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=438&q=80"
+  },
+  {
+    "id": "26",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1592754862816-1a21a4ea2281?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "27",
+    "name": "Whiskers",
+    "age": 2,
+    "description": "Whiskers is a shy and timid kitten",
+    "type": "cat",
+    "gender": "male",
+    "adoption_fee": 100,
+    "image": "https://images.unsplash.com/photo-1547565393-1b180d53d82a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "28",
+    "name": "Daisy",
+    "age": 4,
+    "description": "Daisy is a friendly and energetic puppy",
+    "type": "dog",
+    "gender": "female",
+    "adoption_fee": 200,
+    "image": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+  },
+  {
+    "id": "29",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1547565560-7d3313e7fff1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "30",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80"
+  },
+  {
+    "id": "31",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1518288774672-b94e808873ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=438&q=80"
+  },
+  {
+    "id": "32",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1592754862816-1a21a4ea2281?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "33",
+    "name": "Whiskers",
+    "age": 2,
+    "description": "Whiskers is a shy and timid kitten",
+    "type": "cat",
+    "gender": "male",
+    "adoption_fee": 100,
+    "image": "https://images.unsplash.com/photo-1547565393-1b180d53d82a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "34",
+    "name": "Daisy",
+    "age": 4,
+    "description": "Daisy is a friendly and energetic puppy",
+    "type": "dog",
+    "gender": "female",
+    "adoption_fee": 200,
+    "image": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+  },
+  {
+    "id": "35",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1547565560-7d3313e7fff1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "36",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80"
+  },
+  {
+    "id": "37",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1518288774672-b94e808873ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=438&q=80"
+  },
+  {
+    "id": "38",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1592754862816-1a21a4ea2281?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "39",
+    "name": "Whiskers",
+    "age": 2,
+    "description": "Whiskers is a shy and timid kitten",
+    "type": "cat",
+    "gender": "male",
+    "adoption_fee": 100,
+    "image": "https://images.unsplash.com/photo-1547565393-1b180d53d82a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "40",
+    "name": "Daisy",
+    "age": 4,
+    "description": "Daisy is a friendly and energetic puppy",
+    "type": "dog",
+    "gender": "female",
+    "adoption_fee": 200,
+    "image": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+  },
+  {
+    "id": "41",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1547565560-7d3313e7fff1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  },
+  {
+    "id": "42",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1372&q=80"
+  },
+  {
+    "id": "43",
+    "name": "Fluffy",
+    "age": 3,
+    "description": "Fluffy is a friendly and playful kitten",
+    "type": "cat",
+    "gender": "female",
+    "adoption_fee": 150,
+    "image": "https://images.unsplash.com/photo-1518288774672-b94e808873ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=438&q=80"
+  },
+  {
+    "id": "44",
+    "name": "Buddy",
+    "age": 5,
+    "description": "Buddy is a well-trained and obedient dog",
+    "type": "dog",
+    "gender": "male",
+    "adoption_fee": 250,
+    "image": "https://images.unsplash.com/photo-1592754862816-1a21a4ea2281?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "45",
+    "name": "Whiskers",
+    "age": 2,
+    "description": "Whiskers is a shy and timid kitten",
+    "type": "cat",
+    "gender": "male",
+    "adoption_fee": 100,
+    "image": "https://images.unsplash.com/photo-1547565393-1b180d53d82a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+  }
+]
